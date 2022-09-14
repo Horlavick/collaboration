@@ -1,1 +1,2 @@
-More about Our project. It is well
+More about Our project.
+Trying out git with my team mates to see how collaboration works.
