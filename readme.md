@@ -1,1 +1,1 @@
-More about Our project
+More about Our project. It is well
